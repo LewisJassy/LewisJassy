@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌍 Based in: Kenya
-- 💻 Aspiring Software Engineer with a passion for developing innovative programs.
+- 💻 Software Engineer with a passion for developing innovative programs.
 - 🎯 My goal: To innovate and change the world positively through technology.
 
 ## What I'm Interested In
