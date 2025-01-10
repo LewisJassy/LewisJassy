@@ -16,6 +16,74 @@
 - 🧠 Working on projects involving large language models (LLMs).
 - 💡 Improving my skills in JavaScript frameworks like React and Node.js.
 
+# Proficient Technologies
+
+## Programming Languages
+
+- Python
+
+- JavaScript
+
+- Rust
+
+- Go
+
+- C
+
+## Frontend Technologies
+
+- React.js
+
+- Next.js
+
+- HTML5, CSS3, and Tailwind CSS
+
+## Backend Technologies
+
+- Node.js
+
+- Express.js
+
+- Django
+
+- Flask
+
+## Databases
+
+- MongoDB
+
+- PostgreSQL
+
+- MySQL
+
+- SQLite
+
+- Redis
+
+## DevOps & Cloud
+
+- Docker
+
+- Kubernetes
+
+- AWS (Amazon Web Services)
+
+- Google Cloud Platform (GCP)
+
+- CI/CD pipelines (GitHub Actions, Jenkins)
+
+## Tools & Others
+
+- Git and GitHub
+
+- VS Code, PyCharm, IntelliJ IDEA
+
+- Linux/Unix shell scripting
+
+- WebSockets
+
+- REST APIs and GraphQL
+
 ## Collaboration
 - 💞️ I’m looking to collaborate on open-source projects, especially those that have a significant impact on the community.
 - 🤝 Interested in partnering with other developers on innovative projects related to machine learning, data science, and AI.
