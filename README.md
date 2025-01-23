@@ -1,4 +1,4 @@
-# Hi there, I'm LewisJassy! 👋
+# Hi there, I'm Lewis Jassy! 👋
 
 ## About Me
 - 💻 I am a Software Engineer dedicated to designing and delivering innovative technological solutions.
