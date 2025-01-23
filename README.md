@@ -1,7 +1,6 @@
 # Hi there, I'm LewisJassy! 👋
 
 ## About Me
-- 🌍 Based in: Kenya
 - 💻 Software Engineer dedicated to designing and delivering innovative technological solutions.
 - 🎯 My goal: To innovate and change the world positively through technology.
 
