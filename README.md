@@ -1,7 +1,7 @@
 # Hi there, I'm LewisJassy! 👋
 
 ## About Me
-- 💻 Software Engineer dedicated to designing and delivering innovative technological solutions.
+- 💻 I am a Software Engineer dedicated to designing and delivering innovative technological solutions.
 - 🎯 My goal: To innovate and change the world positively through technology.
 
 ## GitHub Stats
