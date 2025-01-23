@@ -10,6 +10,8 @@
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisJassy&layout=compact&theme=radical&bg_color=0f2027,203a43,2c5364&cache_seconds=1800)
 
+(https://github-readme-stats.vercel.app/api?username=LewisJassy&show_icons=true&theme=radical&include_all_commits=true)
+
 <!---
 LewisJassy/LewisJassy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
