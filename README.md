@@ -6,11 +6,11 @@
 
 ## GitHub Stats
 ![LewisJassy's GitHub stats]([https://github-readme-stats.vercel.app/api?username=LewisJassy&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=LewisJassy&show_icons=true&theme=radical&bg_color=0f2027,203a43,2c5364
-))
+)
 
 ## Top Languages
 ![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=LewisJassy&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisJassy&layout=compact&theme=radical&bg_color=000000
-))
+)
 
 <!---
 LewisJassy/LewisJassy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
